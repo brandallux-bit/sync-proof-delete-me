@@ -3,7 +3,9 @@
 /.bioai/reviewers/
 /.bioai/VERSION
 /.bioai/MANIFEST
+/.bioai/AGENTS
 /.bioai/settings.sha256
 /.bioai/tmp*
 /.claude/skills/
+/.claude/agents/
 /.claude/settings.local.json

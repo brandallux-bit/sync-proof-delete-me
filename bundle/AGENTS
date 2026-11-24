@@ -1,0 +1,9 @@
+format 1
+version b58012393405
+b3c6e27795ef5971d692f3f0d6fa8a354383ba5f505386eb424b3f46dce4a4d6  agent-specs/adherence.txt
+22abd6ace6a677afe3b85d3df9f991266d92cb00c752542981bf1f8f9cefd514  agent-specs/nutrition.txt
+fea9036657702bad93dec191a586853947954db7a09b2d52f8db27482c406af0  agent-specs/recovery.txt
+a431d0f1e05aff7a4203b2d3c2a12958529aa9e2a6e79c2a12db59b1dd843f5a  agent-specs/red-team.txt
+42019eefffd5a5406a25ec4a358af6aab7064cfcb53cfb315730d55f4a13c546  agent-specs/specialist.txt
+51d642f39f90091567b7df2f91749396dc9e2b3187beb69b19a62737da67d58b  agent-specs/strength.txt
+end 6
