@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "SessionStart": [
+      { "hooks": [ { "type": "command", "command": "sh \"${CLAUDE_PROJECT_DIR:-.}/.proof/start.sh\"", "timeout": 60 } ] }
+    ],
+    "PreToolUse": [
+      { "matcher": "mcp__.*", "hooks": [ { "type": "command", "command": "echo 'This proof session calls no connector tool.' >&2; exit 2" } ] }
+    ]
+  }
+}
