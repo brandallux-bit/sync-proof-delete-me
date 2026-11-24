@@ -1,1 +1,9 @@
-.claude/agents/proof-written.md
+# Written by .bioai/update.sh at the start of each session. Never committed.
+/.bioai/rules.md
+/.bioai/reviewers/
+/.bioai/VERSION
+/.bioai/MANIFEST
+/.bioai/settings.sha256
+/.bioai/tmp*
+/.claude/skills/
+/.claude/settings.local.json

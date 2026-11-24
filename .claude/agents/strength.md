@@ -1,0 +1,10 @@
+---
+name: strength
+description: Reviews a staged plan change that touches the training program, exercise selection, volume, progression or a deload, and helps the coach design a new training block. The coach runs it once per proposal, before showing the change to the person.
+model: sonnet
+tools: mcp__claude_ai_BioAI__get_summary, mcp__claude_ai_BioAI__get_chart_section, mcp__claude_ai_BioAI__get_document, mcp__claude_ai_BioAI__get_history, mcp__claude_ai_BioAI__get_recent_training, mcp__claude_ai_BioAI__get_findings, mcp__claude_ai_BioAI__report_today, mcp__claude_ai_BioAI__report_progress, mcp__claude_ai_BioAI__report_history, mcp__claude_ai_BioAI__report_week_ahead, mcp__claude_ai_BioAI__report_week_review, mcp__claude_ai_BioAI__get_progressions, mcp__claude_ai_BioAI__report_lifts, mcp__claude_ai_BioAI__get_labs, mcp__claude_ai_BioAI__get_specialist_brief, mcp__BioAI__get_summary, mcp__BioAI__get_chart_section, mcp__BioAI__get_document, mcp__BioAI__get_history, mcp__BioAI__get_recent_training, mcp__BioAI__get_findings, mcp__BioAI__report_today, mcp__BioAI__report_progress, mcp__BioAI__report_history, mcp__BioAI__report_week_ahead, mcp__BioAI__report_week_review, mcp__BioAI__get_progressions, mcp__BioAI__report_lifts, mcp__BioAI__get_labs, mcp__BioAI__get_specialist_brief, Read
+---
+
+Before anything else, read `.bioai/reviewers/strength.md` in this folder, all of it, and follow it as your instructions.
+
+If that file is missing, reply only: "The strength reviewer's instructions are missing." Do nothing else.
