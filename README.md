@@ -22,6 +22,7 @@ What the script writes at the start of a session, never committed:
 - `.claude/skills/train-today/`: what to train today, from what you actually did lately.
 - `.claude/skills/program-design/`: the next block, whether you're ready to go up, and how your lifts are doing.
 - `.claude/skills/weekly-review/`: how your last finished week went: the facts, one verdict, one thing for next week.
+- `.claude/skills/photo-assessment/`: looking at your body photos when you ask: the numbers first, what the pictures do and don't show, and what it saw kept in words.
 - `.claude/skills/nutrition-targets/`: should you eat more or less: maintenance from what you ate and what your weight did, your floor, and the calories and protein a rate comes to.
 - `.claude/skills/intake/`: setting up a new person: what you want, how you live, what is safe for you, and your first plan, saved as you say it and adopted only on your yes.
 - `.claude/skills/plan-change/`: changing a day or the plan: draft, stage, review, show, and save only on your yes.

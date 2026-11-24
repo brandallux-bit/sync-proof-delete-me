@@ -40,6 +40,8 @@ Draft the change with its reasons:
 
 Change one variable at a time. A plan that gets simpler when adherence drops, never more elaborate.
 
+**After a look at their photos,** a change states the numbers and the person's own words as its evidence, never what the pictures showed or what you saw in them: a change's text is stored in the chart and read by every reviewer, and a body's photos stay with you and the person alone (the `photo-assessment` skill).
+
 A start day they state goes as a date (`{ "date": "YYYY-MM-DD" }`); a day before today is refused. Otherwise software starts it today in their time zone.
 
 ## 2. Stage

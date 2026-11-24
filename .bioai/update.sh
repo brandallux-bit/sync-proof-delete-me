@@ -14,7 +14,7 @@
 
 FORMAT_SUPPORTED=1
 AGENTS_FORMAT_SUPPORTED=1
-DEFAULT_BASE=https://raw.githubusercontent.com/brandallux-bit/sync-proof-delete-me/source/bundle
+DEFAULT_BASE=https://raw.githubusercontent.com/brandallux-bit/bioai-coach/main/bundle
 READ_LINE='Read .bioai/rules.md now, all of it, before you reply.'
 MAX_FILES=400
 # The hook is given 60 seconds (UPDATE_HOOK in layout.ts). The clock starts before the first fetch and counts the

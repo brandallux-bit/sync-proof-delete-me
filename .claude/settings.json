@@ -32,7 +32,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo 'Blocked for the proof: no connector tool is called in this session.' >&2; exit 2"
+            "command": "node \"$CLAUDE_PROJECT_DIR/.proof/only-test-day.mjs\""
           }
         ]
       }
