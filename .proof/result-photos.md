@@ -151,3 +151,19 @@ PreToolUse:mcp__BioAI__get_photos hook error: [command hook]: Blocked for the pr
 
 This file is the only file this session added to a commit. `.proof/hook.log` was left untracked.
 Branch: `claude/jolly-pascal-5i18ro`.
+
+### `git show --stat HEAD` (after the first commit)
+
+```
+commit 18652f13dbe64d5b18d94d330ac8f7883b0d29d6
+Author: Claude <noreply@anthropic.com>
+Date:   Tue Nov 24 20:58:31 2026 +0000
+
+    Add photo proof result (text only)
+    
+    Co-Authored-By: Claude Fable 5.2 <noreply@anthropic.com>
+    Claude-Session: https://claude.ai/code/session_01HZJ7JvR4XPg4dBmXYneu5s
+
+ .proof/result-photos.md | 153 ++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 153 insertions(+)
+```
